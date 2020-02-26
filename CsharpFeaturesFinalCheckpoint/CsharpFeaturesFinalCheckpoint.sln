@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpFeaturesFinalCheckpoint", "CsharpFeaturesFinalCheckpoint\CsharpFeaturesFinalCheckpoint.csproj", "{FEDD4565-4A90-4400-B4E1-E8741CADF636}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEDD4565-4A90-4400-B4E1-E8741CADF636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDD4565-4A90-4400-B4E1-E8741CADF636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDD4565-4A90-4400-B4E1-E8741CADF636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDD4565-4A90-4400-B4E1-E8741CADF636}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {777BD75E-BA99-4C2B-8FAF-1C02EFDF0C5C}
+	EndGlobalSection
+EndGlobal

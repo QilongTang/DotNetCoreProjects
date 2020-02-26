@@ -80,7 +80,7 @@ namespace CsharpPatternMatchingCheckpoint
         {
             // Use positional pattern matching to determine if Grade is pass (A,B,C) or fail (D,F) and TuitionPaid is true.
             // Note: You will to define the Deconstruct method for Student
-            var (_, _, z, g) when g >= 'A' && g <= 'C' && z == true => true,
+            var (_, _, z, g) when g >= 'A' && g <= 'C' && z => true,
             _ => false
         };
     }
